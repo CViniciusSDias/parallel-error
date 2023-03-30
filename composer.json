@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "ParallelError\\": "src/"
+        }
+    },
+    "require": {
+        "ext-parallel": "*",
+        "php": ">=8.1"
+    }
+}
